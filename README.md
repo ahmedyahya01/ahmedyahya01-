@@ -33,3 +33,9 @@
 ---
 
 🔥 Always learning, building, and improving! Let's create something amazing together! 🚀
+
+# Ahmed Yahya's Portfolio
+
+Check out my personal website: [ahmedyahya01.github.io](https://ahmedyahya01.github.io)
+
+Welcome to my GitHub profile. Here you'll find projects related to web development, design, and more!
