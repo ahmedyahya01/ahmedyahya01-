@@ -36,6 +36,6 @@
 
 # Ahmed Yahya's Portfolio
 
-Check out my personal website: [https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/](https:///Ahmed-Yahya-Portfolio/)
+Check out my personal website: [https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/](https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/)
 
 Welcome to my GitHub profile. Here you'll find projects related to web development, design, and more!
