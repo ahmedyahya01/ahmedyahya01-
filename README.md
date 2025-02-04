@@ -5,6 +5,12 @@
 🎨 Creating seamless user experiences with the latest web technologies  
 ---
 
+# Ahmed Yahya's Portfolio
+
+Check out my personal website: [https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/](https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/)
+
+Welcome to my GitHub profile. Here you'll find projects related to web development, design, and more!
+
 ## 🚀 Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -33,9 +39,3 @@
 ---
 
 🔥 Always learning, building, and improving! Let's create something amazing together! 🚀
-
-# Ahmed Yahya's Portfolio
-
-Check out my personal website: [https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/](https://ahmedyahya01.github.io/Ahmed-Yahya-Portfolio/)
-
-Welcome to my GitHub profile. Here you'll find projects related to web development, design, and more!
